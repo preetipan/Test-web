@@ -1,0 +1,17 @@
+.chartWrapper {
+  background-color: white; /* พื้นหลังสีขาว */
+  padding: 20px;
+  width: 80%; /* ปรับขนาดเป็น 80% ของหน้าจอ */
+  max-width: 800px; /* กำหนดความกว้างสูงสุดไม่เกิน 800px */
+  margin: 0 auto; /* จัดตรงกลางหน้า */
+}
+
+.title {
+  color: black; /* ให้สีของข้อความเป็นสีดำ */
+  text-align: center; /* จัดให้อยู่ตรงกลาง */
+}
+
+.page {
+  background-color: white;
+  height: 92vh;
+}
